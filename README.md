@@ -1,5 +1,5 @@
-<img width="1200" height="628" alt="Hacktoberfest" src="https://github.com/user-attachments/assets/9efb5047-00e9-48af-895d-c51f8545fc61" />
 
+<img width="1200" height="628" alt="Hacktoberfest" src="https://github.com/user-attachments/assets/e4377161-b42f-4f11-beac-da2ebdc9e54f" />
 
 # LambdaTest <> Hacktoberfest 2025!
 
@@ -51,6 +51,6 @@ Please make sure to read and follow our Contribution Guidelines and Code of Cond
 - **Pull Requests Deadline**: October 31, 2025.
 
 ## 💬 Join Our Community
-Have questions or need guidance? Join our [LambdaTest Discord](https://discord.gg/Q5SnqxqV) for real-time support and interaction with our team and community!
+Have questions or need guidance? Join our [LambdaTest Discord](https://discord.gg/nTsCr6Dr) for real-time support and interaction with our team and community!
 
 Get your forks ready and start contributing! Let's make Hacktoberfest 2025 a success with LambdaTest! 🌍✨
