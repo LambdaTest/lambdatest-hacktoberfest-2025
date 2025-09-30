@@ -1,9 +1,10 @@
-![image](https://github.com/user-attachments/assets/10e576e8-4c5a-4a04-a670-893174b4a38d)
-
-# LambdaTest <> Hacktoberfest 2024!
+<img width="1200" height="628" alt="Hacktoberfest" src="https://github.com/user-attachments/assets/9efb5047-00e9-48af-895d-c51f8545fc61" />
 
 
-We're thrilled to be part of **Hacktoberfest 2024**, the month-long celebration of open-source! At LambdaTest, we believe in empowering developers, testers, and quality engineers by building robust tools for test automation and collaboration. Now we invite you to contribute, collaborate, and make an impact in the world of testing!
+# LambdaTest <> Hacktoberfest 2025!
+
+
+We're thrilled to be part of **Hacktoberfest 2025**, the month-long celebration of open-source! At LambdaTest, we believe in empowering developers, testers, and quality engineers by building robust tools for test automation and collaboration. Now we invite you to contribute, collaborate, and make an impact in the world of testing!
 
 ## 🏆 Why Contribute to LambdaTest Projects?
 By contributing to LambdaTest's open-source repositories, you will:
@@ -15,7 +16,7 @@ By contributing to LambdaTest's open-source repositories, you will:
 - Win exciting LambdaTest prizes!
 
 ## 🌟 Get Started
-1. Register for Hacktoberfest 2024 at [Hacktoberfest](https://hacktoberfest.com).
+1. Register for Hacktoberfest 2025 at [Hacktoberfest](https://hacktoberfest.com).
 2. Fork one of [our supporting projects](https://github.com/LambdaTest/lambdatest-hacktoberfest-2024?tab=readme-ov-file#-projects-you-can-contribute-to) and start contributing by fixing bugs, improving documentation, or adding features.
 3. Submit your PRs (pull requests) and get them reviewed by our team.
 
@@ -27,12 +28,8 @@ By contributing to LambdaTest's open-source repositories, you will:
 - **[LambdaTest/wdio-lambdatest-service](https://github.com/LambdaTest/wdio-lambdatest-service)**: WebdriverIO LambdaTest Service.
 
 ### Supporting Projects
-- **[WebDriverIO](https://github.com/webdriverio/webdriverio)**: Next-gen browser and mobile automation test framework for Node.js.
-- **Selenium**: A browser automation framework and ecosystem.
-  - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
-  - [SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io) - Official Selenium website and documentation
-  - [SeleniumHQ/selenium-ide](https://github.com/SeleniumHQ/selenium-ide) - Open Source record and playback test automation for the web.
-- **[Appium](https://github.com/appium/appium)**: Cross-platform automation framework for all kinds of apps.
+
+Coming Soon! Stay Tuned
 
 ## 🤝 How to Contribute
 1. **Explore the issues**: Check out the issues tab of each repository to find open issues labeled as `Hacktoberfest` or `good-first-issue`.
@@ -50,10 +47,10 @@ Apart from official Hacktoberfest swag, contributors to our projects will get a 
 Please make sure to read and follow our Contribution Guidelines and Code of Conduct before submitting any pull requests. It helps ensure that all contributions align with our standards and makes the review process faster.
 
 ## 📅 Important Dates
-- **Event Duration**: October 1 – October 31, 2024.
-- **Pull Requests Deadline**: October 31, 2024.
+- **Event Duration**: October 1 – October 31, 2025.
+- **Pull Requests Deadline**: October 31, 2025.
 
 ## 💬 Join Our Community
 Have questions or need guidance? Join our [LambdaTest Discord](https://discord.gg/Q5SnqxqV) for real-time support and interaction with our team and community!
 
-Get your forks ready and start contributing! Let's make Hacktoberfest 2024 a success with LambdaTest! 🌍✨
+Get your forks ready and start contributing! Let's make Hacktoberfest 2025 a success with LambdaTest! 🌍✨
