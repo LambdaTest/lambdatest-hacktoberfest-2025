@@ -32,6 +32,8 @@ By contributing to LambdaTest's open-source repositories, you will:
 - **[SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io)**: Selenium documentation.
 - **[webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)**: WebdriverIO.
 
+  Note: For WebdriverIO, there is no `hacktoberfest` label in issues, feel free to work on any issue and we will mark the PR as `hacktoberfest-accepted` once it is merged. So, it will count towards your hacktoberfest contributions.
+
 ## 🤝 How to Contribute
 1. **Explore the issues**: Check out the issues tab of each repository to find open issues labeled as `Hacktoberfest` or `good-first-issue`.
 2. **Pick an issue**: Assign it to yourself by commenting on the issue.
