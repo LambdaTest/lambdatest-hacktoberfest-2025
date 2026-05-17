@@ -1,59 +1,125 @@
+﻿# Run Hacktoberfest 2025 Contributions on TestMu AI (Formerly LambdaTest)
 
-<img width="1200" height="628" alt="Hacktoberfest" src="https://github.com/user-attachments/assets/e4377161-b42f-4f11-beac-da2ebdc9e54f" />
+<p align="center">
+  <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
+  <a href="https://hacktoberfest.com"><img src="https://img.shields.io/badge/Hacktoberfest%202025-open--source-blueviolet?style=for-the-badge&labelColor=000" alt="Hacktoberfest 2025"></a>
+  <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
+</p>
 
-# LambdaTest <> Hacktoberfest 2025!
+## Getting Started
 
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks. 
 
-We're thrilled to be part of **Hacktoberfest 2025**, the month-long celebration of open-source! At LambdaTest, we believe in empowering developers, testers, and quality engineers by building robust tools for test automation and collaboration. Now we invite you to contribute, collaborate, and make an impact in the world of testing!
+With TestMu AI (Formerly LambdaTest), you can run open-source contributions and test automation projects across real browsers and operating systems. This sample shows how to configure your Hacktoberfest 2025 contributions to run on the TestMu AI cloud.
 
-## 🏆 Why Contribute to LambdaTest Projects?
-By contributing to LambdaTest's open-source repositories, you will:
-- Help improve industry-leading test automation tools.
-- Enhance your skills in testing, CI/CD, and automation.
-- Collaborate with a passionate community of developers and testers.
-- Get your contributions recognized by LambdaTest and across the testing community.
-- Be mentored by developers from our Open Source Team and industry experts.
-- Win exciting LambdaTest prizes!
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
+- Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
-## 🌟 Get Started
-1. Register for Hacktoberfest 2025 at [Hacktoberfest](https://hacktoberfest.com).
-2. Fork one of [our supporting projects](https://github.com/LambdaTest/lambdatest-hacktoberfest-2024?tab=readme-ov-file#-projects-you-can-contribute-to) and start contributing by fixing bugs, improving documentation, or adding features.
-3. Submit your PRs (pull requests) and get them reviewed by our team.
+### Prerequisites
 
-## 📂 Projects You Can Contribute To
-### LambdaTest Projects
+1. Register for [Hacktoberfest 2025](https://hacktoberfest.com).
+2. A GitHub account for forking repositories and submitting pull requests.
+3. A TestMu AI account — [sign up here](https://www.testmuai.com/register/).
+4. Development tools relevant to the project you are contributing to (Node.js, Java, Python, etc.).
+
+### Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/LambdaTest/lambdatest-hacktoberfest-2025
+cd lambdatest-hacktoberfest-2025
+```
+
+1. Fork one of the [supporting projects](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025#-projects-you-can-contribute-to) and start contributing.
+2. Install the [LambdaTest Cloud GitHub App](https://github.com/apps/lambdatest-ai-cloud) on your forked repository.
+3. Set your TestMu AI credentials:
+
+- For Linux/macOS:
+
+```bash
+export LT_USERNAME="YOUR_USERNAME"
+export LT_ACCESS_KEY="YOUR_ACCESS_KEY"
+```
+
+- For Windows:
+
+```bash
+set LT_USERNAME="YOUR_USERNAME"
+set LT_ACCESS_KEY="YOUR_ACCESS_KEY"
+```
+
+### Run tests
+
+1. **Explore issues**: Check the issues tab for labels `Hacktoberfest` or `good-first-issue`.
+2. **Pick an issue**: Assign it to yourself by commenting on the issue.
+3. **Fork the repo**: Make your changes in a new branch and push them.
+4. **Submit a Pull Request**: When your changes are ready, submit a pull request following the contribution guidelines.
+
+**Projects you can contribute to:**
+
 - **[LambdaTest/testcafe-browser-provider-lambdatest](https://github.com/LambdaTest/testcafe-browser-provider-lambdatest)**: NPM Plugin For TestCafe Integration With LambdaTest.
 - **[LambdaTest/lambdatest-gradle-plugin](https://github.com/LambdaTest/lambdatest-gradle-plugin)**: Source code for LambdaTest's Espresso Gradle plugin.
 - **[LambdaTest/lambdatest-buildkite-plugin](https://github.com/LambdaTest/lambdatest-buildkite-plugin)**: Buildkite plugin that opens a LambdaTest tunnel.
 - **[LambdaTest/wdio-lambdatest-service](https://github.com/LambdaTest/wdio-lambdatest-service)**: WebdriverIO LambdaTest Service.
 
-### Supporting Projects
+**Event Duration**: October 1 – October 31, 2025.
 
-- **[SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io)**: Selenium documentation.
-- **[webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)**: WebdriverIO.
+### Local testing with TestMu AI Tunnel
 
-  Note: For WebdriverIO, there is no `hacktoberfest` label in issues, feel free to work on any issue and we will mark the PR as `hacktoberfest-accepted` once it is merged. So, it will count towards your hacktoberfest contributions.
+To test locally hosted apps, set up the TestMu AI tunnel. OS-specific guides:
 
-## 🤝 How to Contribute
-1. **Explore the issues**: Check out the issues tab of each repository to find open issues labeled as `Hacktoberfest` or `good-first-issue`.
-2. **Pick an issue**: Assign it to yourself by commenting on the issue.
-3. **Fork the repo**: Make your changes in a new branch and push them.
-4. **Submit a Pull Request**: When your changes are ready, submit a pull request following the contribution guidelines.
-5. **Celebrate**: Once your PR is merged, you’ll be one step closer to completing Hacktoberfest!
+- [Local Testing on Windows](https://www.testmuai.com/support/docs/local-testing-for-windows/)
+- [Local Testing on macOS](https://www.testmuai.com/support/docs/local-testing-for-macos/)
+- [Local Testing on Linux](https://www.testmuai.com/support/docs/local-testing-for-linux/)
 
-## 🎁 Prizes and Rewards
-Apart from official Hacktoberfest swag, contributors to our projects will get a chance to win:
-- **3 Contributions** – Amazon Vouchers (upto $10) + LambdaTest Lisenses (90 days).
-- **5 Contributions or More** – Amazon Vouchers (upto $20) + LambdaTest Lisenses (90 days).
+Configure tunnel in your test capabilities:
 
-## 📑 Contribution Guidelines
-Please make sure to read and follow our Contribution Guidelines and Code of Conduct before submitting any pull requests. It helps ensure that all contributions align with our standards and makes the review process faster.
+```javascript
+const capabilities = {
+  tunnel: true
+};
+```
 
-## 📅 Important Dates
-- **Event Duration**: October 1 – October 31, 2025.
-- **Pull Requests Deadline**: October 31, 2025.
+## Contributions
 
-## 💬 Join Our Community
-Have questions or need guidance? Join our [LambdaTest Discord](https://discord.gg/nTsCr6Dr) for real-time support and interaction with our team and community!
+Contributions are welcome. Open an issue to discuss your idea before submitting a pull request. When reporting bugs, include your Node.js version, OS, and Angular CLI version.
 
-Get your forks ready and start contributing! Let's make Hacktoberfest 2025 a success with LambdaTest! 🌍✨
+## TestMu AI (Formerly LambdaTest) Community
+
+Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
+  
+## TestMu AI (Formerly LambdaTest) Certifications
+
+Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
+
+## Learning Resources by TestMu AI (Formerly LambdaTest)
+
+Learn modern testing through tutorials, guides, videos, and weekly updates:
+
+* [TestMu AI Blog](https://www.testmuai.com/blog/)
+* [TestMu AI Learning Hub](https://www.testmuai.com/learning-hub/)
+* [TestMu AI on YouTube](https://www.youtube.com/@TestMuAI)
+* [TestMu AI Newsletter](https://www.testmuai.com/newsletter/)
+  
+## LambdaTest is Now TestMu AI
+
+On **January 12, 2026**, [LambdaTest evolved to TestMu AI](https://www.testmuai.com/lambdatest-is-now-testmuai/), the world's first fully autonomous **Agentic AI Quality Engineering Platform**.
+
+Same team. Same infrastructure. Same customer accounts. All existing LambdaTest logins, scripts, capabilities, and integrations continue to work without change.
+
+ð Find the new home for [LambdaTest](https://www.testmuai.com).
+
+### How LambdaTest Evolved into TestMu AI
+
+In 2017, we launched LambdaTest with a simple mission: make testing fast, reliable, and accessible. As LambdaTest grew, we expanded into Test Intelligence, Visual Regression Testing, Accessibility Testing, API Testing, and Performance Testing, covering the full depth of the testing lifecycle.
+
+As software development entered the AI era, testing had to evolve, too. We rebuilt the architecture to be AI-native from the ground up, with autonomous agents that **plan, author, execute, analyze, and optimize tests** while keeping humans in the loop. The platform integrates with your repos, CI, IDEs, and terminals, continuously learning from every code change and development signal.
+
+That evolution earned a new name: **TestMu AI**, built for an AI-first future of quality engineering. TestMu is not a new name for us. It is the name of our annual community conference, which has brought together 100,000+ quality engineers to discuss how AI would reshape testing, long before that became an industry norm. 
+
+What started as a high-performance cloud testing platform has transformed into an AI-native, multi-agent system powering a connected, end-to-end quality layer. That evolution defined a new identity: LambdaTest evolved into TestMu AI, built for an AI-first future of quality engineering.
+
+## Support
+
+Got a question? Email [support@testmuai.com](mailto:support@testmuai.com) or chat with us 24x7 from our chat portal.
