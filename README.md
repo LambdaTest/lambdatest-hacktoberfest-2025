@@ -1,8 +1,7 @@
-﻿# TestMu AI Hacktoberfest 2025 on TestMu AI (Formerly LambdaTest)
+# Hacktoberfest 2025 with TestMu AI (Formerly LambdaTest)
 
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
-  <a href="https://hacktoberfest.com"><img src="https://img.shields.io/badge/Hacktoberfest%202025-open--source-blueviolet?style=for-the-badge&labelColor=000" alt="Hacktoberfest 2025"></a>
   <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
 </p>
 
@@ -10,10 +9,10 @@
 
 [TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks. 
 
-With TestMu AI (Formerly LambdaTest), you can run open-source contributions and test automation projects across real browsers and operating systems. This sample shows how to configure your Hacktoberfest 2025 contributions to run on the TestMu AI cloud.
+With TestMu AI (Formerly LambdaTest), you can run open-source test automation contributions across real browsers and operating systems as part of Hacktoberfest 2025.
 
-- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
-- Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
+- Sign up on TestMu AI (Formerly LambdaTest).
+- Follow the TestMu AI Documentation for the full setup walkthrough.
 
 ### Prerequisites
 
@@ -58,7 +57,7 @@ set LT_ACCESS_KEY="YOUR_ACCESS_KEY"
 
 **Projects you can contribute to:**
 
-- **LambdaTest/testcafe-browser-provider-lambdatest**: NPM Plugin For TestCafe Integration With LambdaTest.
+- **LambdaTest/testcafe-browser-provider-lambdatest**: NPM Plugin For TestCafe Integration With TestMu AI (Formerly LambdaTest).
 - **LambdaTest/lambdatest-gradle-plugin**: Source code for TestMu AI (Formerly LambdaTest)'s Espresso Gradle plugin.
 - **LambdaTest/lambdatest-buildkite-plugin**: Buildkite plugin that opens a TestMu AI (Formerly LambdaTest) tunnel.
 - **LambdaTest/wdio-lambdatest-service**: WebdriverIO TestMu AI (Formerly LambdaTest) Service.
@@ -83,7 +82,7 @@ const capabilities = {
 
 ## Contributions
 
-Contributions are welcome. Open an issue to discuss your idea before submitting a pull request. When reporting bugs, include your Node.js version, OS, and Angular CLI version.
+Contributions are welcome. Open an issue to discuss your idea before submitting a pull request. When reporting bugs, include your runtime version, OS, and tool version.
 
 ## TestMu AI (Formerly LambdaTest) Community
 
