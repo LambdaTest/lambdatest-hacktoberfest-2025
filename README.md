@@ -1,4 +1,4 @@
-﻿# LambdaTest Hacktoberfest 2025 on TestMu AI (Formerly LambdaTest)
+# Hacktoberfest 2025 on TestMu AI (Formerly LambdaTest)
 
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
@@ -32,7 +32,7 @@ cd lambdatest-hacktoberfest-2025
 ```
 
 1. Fork one of the supporting projects and start contributing.
-2. Install the LambdaTest Cloud GitHub App on your forked repository.
+2. Install the TestMu AI Cloud GitHub App on your forked repository.
 3. Set your TestMu AI credentials:
 
 - For Linux/macOS:
@@ -58,10 +58,10 @@ set LT_ACCESS_KEY="YOUR_ACCESS_KEY"
 
 **Projects you can contribute to:**
 
-- **LambdaTest/testcafe-browser-provider-lambdatest**: NPM Plugin For TestCafe Integration With LambdaTest.
-- **LambdaTest/lambdatest-gradle-plugin**: Source code for LambdaTest's Espresso Gradle plugin.
-- **LambdaTest/lambdatest-buildkite-plugin**: Buildkite plugin that opens a LambdaTest tunnel.
-- **LambdaTest/wdio-lambdatest-service**: WebdriverIO LambdaTest Service.
+- **LambdaTest/testcafe-browser-provider-lambdatest**: NPM Plugin For TestCafe Integration With TestMu AI.
+- **LambdaTest/lambdatest-gradle-plugin**: Source code for TestMu AI's Espresso Gradle plugin.
+- **LambdaTest/lambdatest-buildkite-plugin**: Buildkite plugin that opens a TestMu AI tunnel.
+- **LambdaTest/wdio-lambdatest-service**: WebdriverIO TestMu AI Service.
 
 **Event Duration**: October 1 – October 31, 2025.
 
